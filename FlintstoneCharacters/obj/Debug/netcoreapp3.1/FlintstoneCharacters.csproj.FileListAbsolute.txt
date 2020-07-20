@@ -1,0 +1,11 @@
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\bin\Debug\netcoreapp3.1\FlintstoneCharacters.exe
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\bin\Debug\netcoreapp3.1\FlintstoneCharacters.deps.json
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\bin\Debug\netcoreapp3.1\FlintstoneCharacters.runtimeconfig.json
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\bin\Debug\netcoreapp3.1\FlintstoneCharacters.runtimeconfig.dev.json
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\bin\Debug\netcoreapp3.1\FlintstoneCharacters.dll
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\bin\Debug\netcoreapp3.1\FlintstoneCharacters.pdb
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\obj\Debug\netcoreapp3.1\FlintstoneCharacters.csprojAssemblyReference.cache
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\obj\Debug\netcoreapp3.1\FlintstoneCharacters.AssemblyInfoInputs.cache
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\obj\Debug\netcoreapp3.1\FlintstoneCharacters.AssemblyInfo.cs
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\obj\Debug\netcoreapp3.1\FlintstoneCharacters.dll
+C:\Users\ycleptinsan\Desktop\FlintstoneCharacters\obj\Debug\netcoreapp3.1\FlintstoneCharacters.pdb

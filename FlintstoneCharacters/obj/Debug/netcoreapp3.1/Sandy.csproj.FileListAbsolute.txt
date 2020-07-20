@@ -1,0 +1,11 @@
+C:\Users\ycleptinsan\Desktop\Sandy\bin\Debug\netcoreapp3.1\Sandy.exe
+C:\Users\ycleptinsan\Desktop\Sandy\bin\Debug\netcoreapp3.1\Sandy.deps.json
+C:\Users\ycleptinsan\Desktop\Sandy\bin\Debug\netcoreapp3.1\Sandy.runtimeconfig.json
+C:\Users\ycleptinsan\Desktop\Sandy\bin\Debug\netcoreapp3.1\Sandy.runtimeconfig.dev.json
+C:\Users\ycleptinsan\Desktop\Sandy\bin\Debug\netcoreapp3.1\Sandy.dll
+C:\Users\ycleptinsan\Desktop\Sandy\bin\Debug\netcoreapp3.1\Sandy.pdb
+C:\Users\ycleptinsan\Desktop\Sandy\obj\Debug\netcoreapp3.1\Sandy.csprojAssemblyReference.cache
+C:\Users\ycleptinsan\Desktop\Sandy\obj\Debug\netcoreapp3.1\Sandy.AssemblyInfoInputs.cache
+C:\Users\ycleptinsan\Desktop\Sandy\obj\Debug\netcoreapp3.1\Sandy.AssemblyInfo.cs
+C:\Users\ycleptinsan\Desktop\Sandy\obj\Debug\netcoreapp3.1\Sandy.dll
+C:\Users\ycleptinsan\Desktop\Sandy\obj\Debug\netcoreapp3.1\Sandy.pdb
